@@ -29,6 +29,7 @@ bbs_token=R74mq3S2uXXXXXXXXXXX66nLnTW7DFOV;
 ```
 
 #### 第三步 添加 "COOKIE"，最后启用Action
+克隆配置好之后需要修改一下代码（随便修改下md文件）触发Action运行
 
 ![https://p1.meituan.net/csc/669bed5305d5293b90b670f861ddde36111425.png](https://p1.meituan.net/csc/669bed5305d5293b90b670f861ddde36111425.png)
 
